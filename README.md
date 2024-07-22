@@ -31,6 +31,8 @@ Please do the following exercises in addition to the one from the class material
 
 ## How to add SSH key to the BitBucket
 
+Instructor will demonstrate this.
+
 - In a terminal, do "ssh-keygen" and accept all defaults
 
 ```
@@ -68,6 +70,16 @@ total 10
 -rw-r--r-- 1 Administrator 197121   95 Jul 19 17:26 known_hosts.old
 ```
 
+- Copy the content of "id_rsa.pub" file
+- Now go to your BitBucket website, click Settints button in the top-right corner
+- Select Workspace settings
+- Select SSH Keys
+- Click Add Key button
+- Enter description of this key to the Label: i.e. my VM ssh key
+- Paste the content of "id_rsa.pub" file to the Key area
+- Click Add key at the right bottom corner
+
+- Now you should be able to use ssh for cloning and pushing
 
 ## How to make remte repository for the local Git project
 
