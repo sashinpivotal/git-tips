@@ -62,7 +62,7 @@ The key's randomart image is:
 - Verify that relevant files are generated
 
 ```
-$ ll  /c/Users/Administrator/.ssh
+$ ll  ~/.ssh
 total 10
 -rw-r--r-- 1 Administrator 197121 2622 Jul 22 13:41 id_rsa
 -rw-r--r-- 1 Administrator 197121  583 Jul 22 13:41 id_rsa.pub
@@ -70,7 +70,7 @@ total 10
 -rw-r--r-- 1 Administrator 197121   95 Jul 19 17:26 known_hosts.old
 ```
 
-- Copy the content of "id_rsa.pub" file
+- Copy the content of "id_rsa.pub" file by "cat ~/.ssh/id_rsa.pub"
 - Now go to your BitBucket website, click Settints button in the top-right corner
 - Select Workspace settings
 - Select SSH Keys
