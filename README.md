@@ -81,7 +81,7 @@ total 10
 
 - Now you should be able to use ssh for cloning and pushing
 
-## How to make remte repository for the local Git project
+## How to make remote repository after you create a local Git project
 
 Let's assume you have a local Git project called "my_project", now you want to make a corresponding remote BitBucket project.
 
