@@ -85,7 +85,7 @@ total 10
 
 Let's assume you have a local Git project called "my_project", now you want to make a corresponding remote BitBucket project.
 
-- Create a remote repository called "my_project" (technically they don't have to share the same project name even though sharing the same project name is a good convention to follow)
+- Create a remote repository called "my_project" (technically they don't have to have a same project name even though having a same project name is a good convention to follow)
 - Make sure to use the same default branch you are using in local repository
   - It is either "master" or "main"
 - Remember the URL of the remote project 
