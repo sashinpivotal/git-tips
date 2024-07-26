@@ -72,7 +72,7 @@ total 10
 
 - Copy the content of "id_rsa.pub" file by "cat ~/.ssh/id_rsa.pub"
 - Now go to your BitBucket website, click Settints button in the top-right corner
-- Select Workspace settings
+- Select Workspace settings or Personal Bitbucket settings
 - Select SSH Keys
 - Click Add Key button
 - Enter description of this key to the Label: i.e. my VM ssh key
