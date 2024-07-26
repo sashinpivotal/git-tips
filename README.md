@@ -1,12 +1,10 @@
-# git-tips
 
-- [git-tips](#git-tips)
-  - [Git Module 1 Extra exercises](#git-module-1-extra-exercises)
-    - [Command line exercise](#command-line-exercise)
-    - [IDE exercise (PyCharm)](#ide-exercise-pycharm)
-    - [IDE exercise (IntelliJ)](#ide-exercise-intellij)
-  - [How to add SSH key to the BitBucket](#how-to-add-ssh-key-to-the-bitbucket)
-  - [How to make remote repository after you create a local Git project](#how-to-make-remote-repository-after-you-create-a-local-git-project)
+- [Git Module 1 Extra exercises](#git-module-1-extra-exercises)
+  - [Command line exercise](#command-line-exercise)
+  - [IDE exercise (PyCharm)](#ide-exercise-pycharm)
+  - [IDE exercise (IntelliJ)](#ide-exercise-intellij)
+- [How to add SSH key to the BitBucket](#how-to-add-ssh-key-to-the-bitbucket)
+- [How to make remote repository after you create a local Git project](#how-to-make-remote-repository-after-you-create-a-local-git-project)
 
 ## Git Module 1 Extra exercises
 
