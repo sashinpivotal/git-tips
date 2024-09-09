@@ -1,4 +1,5 @@
 line1
+line2
 - [Git Module 1 Extra exercises](#git-module-1-extra-exercises)
   - [Command line exercise](#command-line-exercise)
   - [IDE exercise (PyCharm)](#ide-exercise-pycharm)
